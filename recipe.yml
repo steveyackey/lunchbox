@@ -64,6 +64,20 @@ rpm:
     # Add your own below:
     # Example:
     # - tilix
+    - gnome-shell-extension-appindicator
+    - gnome-shell-extension-dash-to-dock
+    - gnome-shell-extension-blur-my-shell
+    - gnome-shell-extension-gsconnect
+    - adobe-source-code-pro-fonts
+    - cascadiacode-nerd-fonts
+    - google-droid-sans-mono-fonts
+    - google-go-mono-fonts
+    - ibm-plex-mono-fonts
+    - jetbrains-mono-fonts-all
+    - mozilla-fira-mono-fonts
+    - powerline-fonts
+    - ubuntumono-nerd-fonts
+    - ubuntu-nerd-fonts
 
   # These RPMs will be removed from the system image. This step happens during
   # image build, BEFORE installing custom RPMs (from the "rpm.install" category).

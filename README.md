@@ -1,4 +1,7 @@
-# Starting point
+# lunchbox
+A custom uBlue image for holding all your containers. Goes great with `steveyackey/utensils`.
+
+## Original Docs
 
 [![build-ublue](https://github.com/ublue-os/startingpoint/actions/workflows/build.yml/badge.svg)](https://github.com/ublue-os/startingpoint/actions/workflows/build.yml)
 

@@ -71,6 +71,7 @@ rpm:
     - gnome-shell-extension-blur-my-shell
     - gnome-shell-extension-gsconnect
     - gnome-boxes
+    - gnome-shell-extension-pop-shell
     - adobe-source-code-pro-fonts
     - cascadiacode-nerd-fonts
     - google-droid-sans-mono-fonts

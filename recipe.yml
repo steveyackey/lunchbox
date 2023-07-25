@@ -70,6 +70,7 @@ rpm:
     - gnome-shell-extension-dash-to-dock
     - gnome-shell-extension-blur-my-shell
     - gnome-shell-extension-gsconnect
+    - gnome-boxes
     - adobe-source-code-pro-fonts
     - cascadiacode-nerd-fonts
     - google-droid-sans-mono-fonts
@@ -106,3 +107,4 @@ firstboot:
     - com.slack.Slack
     - com.google.Chrome
     - com.raggesilver.BlackBox
+    - com.spotify.Client
